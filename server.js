@@ -12,5 +12,4 @@ if (! module.parent) {
 }
 
 module.exports = app
-this is not a code~~
 console.log("Server running on port " + port);
